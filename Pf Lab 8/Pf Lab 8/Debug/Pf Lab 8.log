@@ -1,0 +1,9 @@
+﻿  Task 1.cpp
+C:\Users\Musa\Documents\Pf Lab 8\Pf Lab 8\Task 1.cpp(7,2): error C2065: 'ifstream': undeclared identifier
+C:\Users\Musa\Documents\Pf Lab 8\Pf Lab 8\Task 1.cpp(7,11): error C2146: syntax error: missing ';' before identifier 'file'
+C:\Users\Musa\Documents\Pf Lab 8\Pf Lab 8\Task 1.cpp(7,11): error C2065: 'file': undeclared identifier
+C:\Users\Musa\Documents\Pf Lab 8\Pf Lab 8\Task 1.cpp(8,2): error C2065: 'file': undeclared identifier
+C:\Users\Musa\Documents\Pf Lab 8\Pf Lab 8\Task 1.cpp(9,10): error C2065: 'file': undeclared identifier
+C:\Users\Musa\Documents\Pf Lab 8\Pf Lab 8\Task 1.cpp(11,3): error C2065: 'file': undeclared identifier
+C:\Users\Musa\Documents\Pf Lab 8\Pf Lab 8\Task 1.cpp(14,2): error C3861: 'SortChars': identifier not found
+C:\Users\Musa\Documents\Pf Lab 8\Pf Lab 8\Task 1.cpp(33,3): error C2065: 'cout': undeclared identifier

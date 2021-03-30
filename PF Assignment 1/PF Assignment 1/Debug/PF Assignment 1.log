@@ -1,0 +1,4 @@
+﻿  Task 2.cpp
+C:\Users\Musa\Documents\PF Assignment 1\PF Assignment 1\Task 2.cpp(23,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Musa\Documents\PF Assignment 1\PF Assignment 1\Task 2.cpp(8,26): warning C4101: 'name': unreferenced local variable
+  PF Assignment 1.vcxproj -> C:\Users\Musa\Documents\PF Assignment 1\Debug\PF Assignment 1.exe

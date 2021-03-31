@@ -1,0 +1,8 @@
+﻿  Hospital_Management_System-Musa-Khan.cpp
+C:\Users\Musa\Documents\PF Project\PF Project\Hospital_Management_System-Musa-Khan.cpp(415,13): warning C4101: 'sizeU': unreferenced local variable
+C:\Users\Musa\Documents\PF Project\PF Project\Hospital_Management_System-Musa-Khan.cpp(1246,15): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Musa\Documents\PF Project\PF Project\Hospital_Management_System-Musa-Khan.cpp(377): warning C4715: 'signUPorIN': not all control paths return a value
+C:\Users\Musa\Documents\PF Project\PF Project\Hospital_Management_System-Musa-Khan.cpp(615): warning C4715: 'service': not all control paths return a value
+C:\Users\Musa\Documents\PF Project\PF Project\Hospital_Management_System-Musa-Khan.cpp(1041): warning C4715: 'SearchById': not all control paths return a value
+C:\Users\Musa\Documents\PF Project\PF Project\Hospital_Management_System-Musa-Khan.cpp(934): warning C4715: 'SearchByName': not all control paths return a value
+  PF Project.vcxproj -> C:\Users\Musa\Documents\PF Project\Debug\PF Project.exe
